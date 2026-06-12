@@ -1,0 +1,14 @@
+Brand page generation report
+============================
+Input rows: 501
+Valid rows: 501
+Invalid rows: 0
+Duplicate URLs skipped: 0
+Brand pages: 501
+Group pages: 36
+Sitemap URLs: 538
+Duplicate page titles: 0
+Duplicate body hashes: 0
+Body word range: 304 - 356
+Each brand page contains one primary external link with brand-name anchor text.
+Site URL: https://huuvietle31-jpg.github.io/public-brand-guides/
